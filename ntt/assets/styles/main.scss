@@ -1,0 +1,34 @@
+@import 'source/rules';
+@import 'source/h5bp-normalize';
+@import 'source/h5bp-main';
+
+//--------------------------------------------------------------
+// WordPress Elements
+//--------------------------------------------------------------
+
+.bypostauthor,
+.gallery-caption,
+.sticky,
+.wp-caption,
+.wp-caption-text,
+.alignright,
+.alignleft,
+.aligncenter {
+    position: initial;
+}
+
+.screen-reader-text {
+    @extend %vh;
+}
+
+//--------------------------------------------------------------
+// Entity
+//--------------------------------------------------------------
+
+.ntt--entity-name-description---0--view {
+
+    .ntt--entity-name,
+    .ntt--entity-description {
+        display: none;
+    }
+}
