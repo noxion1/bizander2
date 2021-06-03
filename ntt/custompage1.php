@@ -44,38 +44,38 @@
         <div class="logo-center">
 
       <img src="../wp-content/themes/ntt/images/logo.png" alt="">
-      <div>
+    </div>
      </center>
     </div>
 
       <section class="main">
           <div class="ia-container">
-              <figure>
-                  <img src="../wp-content/themes/ntt/images/1.jpg" alt="">
-                  <input type="radio" name="radio-set" checked="checked">
-                  <figcaption><span><p><img src="../wp-content/themes/ntt/images/tassen.png" alt=""></p></span></figcaption>
+            <figure>
+                <img src="../wp-content/themes/ntt/images/1.jpg" alt="">
+                <input type="radio" name="radio-set" checked="checked">
+                <figcaption><a href="showcase"><span><p><img src="../wp-content/themes/ntt/images/tassen.png" alt=""></p></span></a></figcaption>
 
-                  <figure>
-                      <img src="../wp-content/themes/ntt/images/2.jpg" alt="">
-                      <input type="radio" name="radio-set" checked="checked">
-                      <figcaption><span><p><img src="../wp-content/themes/ntt/images/tassen.png" alt=""></p></span></figcaption>
+                <figure>
+                    <img src="../wp-content/themes/ntt/images/2.jpg" alt="">
+                    <input type="radio" name="radio-set" checked="checked">
+                    <figcaption><a href=""><span><p><img src="../wp-content/themes/ntt/images/verhaal.png" alt=""></p></span></a></figcaption>
 
-                      <figure>
-                          <img src="../wp-content/themes/ntt/images/3.jpg" alt="">
-                          <input type="radio" name="radio-set" checked="checked">
-                          <figcaption><span><p><img src="../wp-content/themes/ntt/images/tassen.png" alt=""></p></span></figcaption>
+                    <figure>
+                        <img src="../wp-content/themes/ntt/images/3.jpg" alt="">
+                        <input type="radio" name="radio-set" checked="checked">
+                        <figcaption><span><p><img src="../wp-content/themes/ntt/images/tassen.png" alt=""></p></span></figcaption>
 
-                          <figure>
-                              <img src="../wp-content/themes/ntt/images/4.jpg" alt="">
-                              <input type="radio" name="radio-set" checked="checked">
-                              <figcaption><a href="google.com"><span><p><img src="../wp-content/themes/ntt/images/tassen.png" alt=""></p></span></a></figcaption>
+                        <figure>
+                            <img src="../wp-content/themes/ntt/images/4.jpg" alt="">
+                            <input type="radio" name="radio-set" checked="checked">
+                            <figcaption><a href="home"><span><p><img src="../wp-content/themes/ntt/images/home.png" alt=""></p></span></a></figcaption>
 
 
-                          </figure>
+                        </figure>
 
-                      </figure>
-                  </figure>
-              </figure>
+                    </figure>
+                </figure>
+            </figure>
           </div>
       </section>
       <div class="space">
